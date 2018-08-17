@@ -1,2 +1,2 @@
 # C-SHARP_ConsoleBalls
-Solid discs rwo dimensional gas model.
+Two dimensional gas model called solid discs model.
