@@ -1,0 +1,7 @@
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\bin\Debug\ConsoleBalls.exe.config
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\bin\Debug\ConsoleBalls.exe
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\bin\Debug\ConsoleBalls.pdb
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\obj\Debug\ConsoleBalls.csprojAssemblyReference.cache
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\obj\Debug\ConsoleBalls.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\obj\Debug\ConsoleBalls.exe
+C:\Users\Eduard\source\repos\ConsoleBalls\ConsoleBalls\obj\Debug\ConsoleBalls.pdb
